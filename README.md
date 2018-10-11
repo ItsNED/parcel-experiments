@@ -9,7 +9,7 @@ Setting up a professional React project with Parcel as a code bundler.
 - SCSS ✅
 - CSS Module ✅
 - Typography.js ✅
-- Build for production
+- Build for production ✅
 
 ## Install Command Needed
 
@@ -23,3 +23,7 @@ Setting up a professional React project with Parcel as a code bundler.
 ## Build Command
 
 - Parcel index.html
+
+## Build Command for Production
+
+- yarn build
