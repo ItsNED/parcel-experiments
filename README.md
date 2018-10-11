@@ -8,7 +8,7 @@ Setting up a professional React project with Parcel as a code bundler.
 - ES6 with babel ✅
 - SCSS ✅
 - CSS Module ✅
-- Typography.js
+- Typography.js ✅
 - Build for production
 
 ## Install Command Needed
@@ -18,6 +18,7 @@ Setting up a professional React project with Parcel as a code bundler.
 - yarn add postcss-modules
 - yarn global add node-sass
 - yarn add autoprefixer
+- yarn add typography
 
 ## Build Command
 
